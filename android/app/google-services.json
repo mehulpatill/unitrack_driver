@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752878983137",
+    "firebase_url": "https://transport-ef08e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "transport-ef08e",
+    "storage_bucket": "transport-ef08e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752878983137:android:742b7889c123ec99da24a0",
+        "android_client_info": {
+          "package_name": "com.example.unitrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752878983137-3gvcbsbf36sf9cepgk7tmb123b56ahcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTpIhgVoXx9b3h5c_zVAb_FnVEpFsshUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752878983137-3gvcbsbf36sf9cepgk7tmb123b56ahcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
